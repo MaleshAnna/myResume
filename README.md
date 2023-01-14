@@ -1,2 +1,2 @@
 # myResume
-my resume
+my Resume
